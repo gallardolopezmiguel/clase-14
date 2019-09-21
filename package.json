@@ -16,5 +16,8 @@
   },
   "homepage": "https://github.com/gallardolopezmiguel/clase-14#readme",
   "keywords": [],
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
